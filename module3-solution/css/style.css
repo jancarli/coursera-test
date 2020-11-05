@@ -1,0 +1,45 @@
+
+#header-nav{
+	background-color: lightgray;
+}
+.navbar h1{
+
+	color: black;
+	font-weight: bold;
+}
+* {
+  font-family: Helvetica;
+	text-decoration: none;
+}
+
+h1 {
+  text-align: center;
+  padding: 20px;
+
+}
+
+h2{
+	font-weight: bold;
+}
+
+p {
+  color: black;
+  margin: 10px;
+}
+
+#section-tile{
+  background-color: lightgray;
+  margin-bottom: 30px;
+}
+#nav-list{
+	background-color: white;
+	font-size: 21px;
+	border: 1px solid lightgray;
+}
+
+#site-name{
+	font-size: 30px;
+}
+#header-nav{
+	border-radius: 0;
+}
